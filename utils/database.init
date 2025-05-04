@@ -1,0 +1,7 @@
+; database.init
+
+[database]
+host = localhost
+db_name = planning
+username = root
+password = root
